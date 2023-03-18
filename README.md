@@ -5,5 +5,7 @@ Using Tableau, I created a comprehensive dashboard that included visualizations 
 
 This project not only improved my data analysis and visualization skills but also provided valuable insights into the LA Marathon and the running community.
 
-Link to my Tableau Dashboard:
+Link to my [**Tableau**](https://public.tableau.com/app/profile/khang.nguyen.2023/viz/LosAngelesMarathon2022Dashboard/Dashboard) Dashboard:
 https://public.tableau.com/app/profile/khang.nguyen.2023/viz/LosAngelesMarathon2022Dashboard/Dashboard
+
+![](/LA-Marathon-Web-Logo_bc7ced3e-04a9-4b0d-bd8f-a686ddaa9adb.png)
